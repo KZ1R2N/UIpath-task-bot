@@ -1,0 +1,59 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "carsheader&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Robrt1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "carsheader&b49263c7-a356-4309-bdfc-29bfab537dd3",
+        "cars3&Sequence_1",
+        "cars2&Sequence_1",
+        "newcar&Sequence_2",
+        "variable3&Sequence_1",
+        "RawData1Header&Sequence_2",
+        "RawData2&Sequence_2",
+        "RawData3&Sequence_2",
+        "Output&Sequence_2",
+        "Removedup&Sequence_2",
+        "RawData1&Sequence_2",
+        "variable2&Sequence_8"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Robot 2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "carsheader&b49263c7-a356-4309-bdfc-29bfab537dd3",
+        "New_Data_Table&Sequence_2",
+        "Browser&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Robrt4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "carsheader&b49263c7-a356-4309-bdfc-29bfab537dd3",
+        "New_Data_Table&Sequence_1",
+        "Browser&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
